@@ -1,5 +1,3 @@
-*Data Diri*
-
 _Nama  : Aqiyah Zulqiyah_
 
 _NIM   : 2309116075_
