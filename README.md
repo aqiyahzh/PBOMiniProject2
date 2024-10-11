@@ -1,4 +1,9 @@
-### Perubahan yang dilakukan dengan menerapkan Inheritance, Encapsulation (getter dan setter), Abstraction, Interface, dan Final keyword
+*Data Diri*
+_Nama  : Aqiyah Zulqiyah_
+_NIM   : 2309116075_
+
+### ⭐️ Perubahan Program
+Perubahan yang dilakukan dengan menerapkan Inheritance, Encapsulation (getter dan setter), Abstraction, Interface, dan Final keyword
 
 Penambahan Kelas Abstrak dan Subclass:
 Kelas Donasi diubah menjadi kelas abstrak untuk memungkinkan pembuatan subclass seperti RegularDonasi dan VIPDonasi.
@@ -23,7 +28,7 @@ Interface CRUD digunakan untuk mendefinisikan metode yang harus diimplementasika
 Penambahan Pesan Konfirmasi dan Validasi:
 Program memberikan lebih banyak umpan balik kepada pengguna melalui pesan konfirmasi dan penanganan kesalahan, misalnya, ketika donasi tidak ditemukan.
 
-### OUTPUT PROGRAM
+### ⭐️ Output Program
 
 - Menambah Donatur
 ![Screenshot 2024-10-11 180510](https://github.com/user-attachments/assets/87896c07-aafc-428a-8398-a13027f6e3dc)
